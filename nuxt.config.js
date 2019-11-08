@@ -57,5 +57,8 @@ export default {
         extend (config, ctx) {}
     },
 
-    distDir: 'public'
+    generate: {
+        dir: 'public'
+    }
+
 }
