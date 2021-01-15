@@ -26,7 +26,7 @@
                 Hampshire, United Kingdom
             </p>
             <p class="pt-8 text-sm">
-                Early thirties father, husband, animal lover, web geek, gamer and novice woodworker. I'm currently
+                Mid thirties father of two, husband, animal lover, web geek, gamer and novice woodworker. I'm currently
                 looking for new opportunies, please get in touch if you feel I can help.
             </p>
 
