@@ -1,10 +1,11 @@
 export default {
-    mode: 'universal',
+    target: 'static',
+
     /*
      ** Headers of the page
      */
     head: {
-        title: process.env.npm_package_name || '',
+        title: 'Full Stack Developer | Available For Hire | Cristian Giordano',
         meta: [
             { charset: 'utf-8' },
             {
