@@ -33,7 +33,7 @@ export default function Home() {
             West Sussex, United Kingdom
           </p>
           <p className="pt-8 text-sm">
-            Mid thirties father of two, husband, animal lover, web geek, gamer and novice woodworker. I'm
+            Mid thirties father of two, husband, animal lover, web geek, gamer and novice woodworker. I&pos;m
             currently
             looking for new opportunies, please get in touch if you feel I can help.
           </p>
